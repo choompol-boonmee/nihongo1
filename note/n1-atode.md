@@ -1,3 +1,25 @@
+図書館で宿題をしたあとで、帰ります。
+
+After doing my homework at the library, I will go home.
+
+今から少し練習したあとで、前で発表してもらいます。
+
+After you have practiced a little, I will ask you to make a presentation in front of the class.
+
+電車に乗ったあとで、学校に忘れ物をしたことに気がつきました。
+
+After getting on the train, I realized that I forgot something at school.
+
+アニメを見たあとで、お風呂に入ります。
+
+After watching anime, I'm going to take a bath.
+
+スマホで写真を撮ったあとで、少し色を変えたり、サイズを変えたりします。
+
+After taking a picture with my phone, I change the color and the size a little.
+
+
+
 1. 図書館 : としょかん：ห้องสมุด
 2. 宿題 : しゅくだい：การบ้าน
 3. 帰ります :　かえります：กลับ
