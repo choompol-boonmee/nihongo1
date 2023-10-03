@@ -7,13 +7,15 @@
 
 ## [英訳]
 "not very"
+
 Indicates a degree that’s not very high.
+
 When this is used, the adjective is always used with a negative form.
 
 ## [接続]
-あまり + V（否定形）
-あまり + イA（否定形）
-あまり + ナA（否定形）
+- あまり + V（否定形）
+- あまり + イA（否定形）
+- あまり + ナA（否定形）
 
 ※必ず否定の形をとる
 
