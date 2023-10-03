@@ -1,4 +1,4 @@
-#【JLPT N5】文法・例文：〜がいちばん
+# 【JLPT N5】文法・例文：〜がいちばん
 
 <https://nihongokyoshi-net.com/2020/02/26/jlptn5-grammar-gaichiban/>
 
