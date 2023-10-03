@@ -1,3 +1,4 @@
+
 1. 動詞文
 
 
@@ -24,6 +25,8 @@ After taking a picture with my phone, I change the color and the size a little.
 
 2. 名詞文
 
+==========
+
 授業のあとで、カラオケ行かない？
 
 Do you want to go to karaoke after class?
@@ -44,7 +47,10 @@ After the movie, do you want to go to a cafe?
 
 I went to a ramen shop with my colleagues after a drinking party.
 
+
 3. Vocab
+
+==========
 
 1. 図書館 : としょかん：ห้องสมุด
 2. 宿題 : しゅくだい：การบ้าน
