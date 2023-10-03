@@ -1,5 +1,7 @@
 # あまり。。。ない
 
+<https://nihongokyoshi-net.com/2019/12/12/jlptn5-grammar-amari-nai/>
+
 ## [意味]
 程度が高くないことを表す文型
 
