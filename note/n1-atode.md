@@ -1,3 +1,6 @@
+1. 動詞文
+
+
 図書館で宿題をしたあとで、帰ります。
 
 After doing my homework at the library, I will go home.
@@ -19,6 +22,29 @@ After watching anime, I'm going to take a bath.
 After taking a picture with my phone, I change the color and the size a little.
 
 
+2. 名詞文
+
+授業のあとで、カラオケ行かない？
+
+Do you want to go to karaoke after class?
+
+ご飯のあとで、シャワーを浴びます。
+
+I'll shower after dinner.
+
+仕事のあとで、飲みに行きませんか。
+
+Let's go for a drink after work.
+
+映画のあとで、ちょっとカフェでもどう？
+
+After the movie, do you want to go to a cafe?
+
+飲み会のあとで、同僚とラーメン屋に行った。
+
+I went to a ramen shop with my colleagues after a drinking party.
+
+3. Vocab
 
 1. 図書館 : としょかん：ห้องสมุด
 2. 宿題 : しゅくだい：การบ้าน
