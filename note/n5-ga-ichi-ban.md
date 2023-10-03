@@ -1,5 +1,7 @@
 #【JLPT N5】文法・例文：〜がいちばん
 
+<https://nihongokyoshi-net.com/2020/02/26/jlptn5-grammar-gaichiban/>
+
 ## [意味]
 
 比較する全てのもの（３つ以上）の中で、最も程度が高いことを表す。
