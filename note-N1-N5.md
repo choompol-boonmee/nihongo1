@@ -1,5 +1,5 @@
 ## N1
-1. 〜あっての <https://nihongokyoshi-net.com/2019/05/07/jlptn1-grammar-atteno/>
+1. 〜あっての [*](https://nihongokyoshi-net.com/2019/05/07/jlptn1-grammar-atteno/)
 1. 〜いかんだ / 〜いかんでは / 〜いかんによっては <https://nihongokyoshi-net.com/2019/07/03/jlptn1-grammar-ikan/>
 1. 〜いかんに関わらず / 〜いかんによらず / 〜いかんを問わず <https://nihongokyoshi-net.com/2019/07/03/jlptn1-grammar-ikannikakawarazu/>
 1. 〜かたがた <https://nihongokyoshi-net.com/2019/06/26/jlptn1-grammar-katagata/>
