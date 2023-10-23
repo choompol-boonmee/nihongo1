@@ -1,5 +1,7 @@
 ## 文型：ぜひ
 
+<https://nihongokyoshi-net.com/2019/09/23/jlptn5-grammar-zehi/>
+
 ## [意味]
 
 依頼や願望を強調して言う表現。
