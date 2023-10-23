@@ -1,130 +1,130 @@
 ## N1
-1. 〜あっての
-1. 〜いかんだ / 〜いかんでは / 〜いかんによっては
-1. 〜いかんに関わらず / 〜いかんによらず / 〜いかんを問わず
-1. 〜かたがた
-1. 〜かたわら
-1. 〜がてら
-1. 〜かと思いきや
-1. 〜が早いか
-1. 〜からある / 〜からする / 〜からの
-1. 〜かれ〜かれ
-1. 〜きっての
-1. 〜きらいがある
-1. 〜極まる / 〜極まりない
-1. 〜ごとき / ごとく / ごとし
-1. 〜こととて
-1. 〜始末だ
-1. 〜ずくめ
-1. 〜ずにはおかない / 〜ないではおかない
-1. 〜ずにはすまない / 〜ないではすまない
-1. 〜術がない
-1. 〜すら
-1. 〜そばから
-1. ただ〜のみ
-1. 〜たためしがない
-1. 〜たところで
-1. 〜だに
-1. 〜だの〜だの
-1. 〜た弾みに / 〜た拍子に
-1. 〜た分だけ
-1. 〜たまでだ / 〜たまでのことだ
-1. 〜たら最後 / 〜たが最後
-1. 〜たら〜たで
-1. 〜たりとも〜ない
-1. 〜たるもの
-1. 〜尽くす
-1. 〜つ〜つ
-1. 〜であれ〜であれ
-1. 〜てからというもの
-1. 〜ではあるまいし / 〜でもあるまいし
-1. 〜てまえ 1. 〜てやまない
-1. 〜と相まって
-1. 〜とあれば
-1. 〜といい〜といい
-1. 〜といえども
-1. 〜というもの
-1. 〜ときたら
-1. 〜ところを
-1. 〜とはいえ
-1. 〜ともあろう
-1. 〜ともなく/〜ともなしに
-1. 〜ともなると / 〜ともなれば
-1. 〜ながら
-1. 〜なくしては
-1. 〜なくもない
-1. 〜なしに /  〜なしで
-1. 〜ならでは
-1. 〜ないまでも
-1. 〜なり
-1. 〜なりとも
-1. 〜なり〜なり
-1. 〜なりに
-1. 〜にあって
-1. 〜に至る / 〜に至るまで
-1. 〜に言わせれば
-1. 〜にかかっては / 〜にかかったら / 〜にかかると / 〜にかかれば
-1. 〜に関わる
-1. 〜に限ったことではない
-1. 〜にかこつけて
-1. 〜にかたくない
-1. 〜にかまけて
-1. 〜にして
-1. 〜に忍びない
-1. 〜に即して / 〜に則して
-1. 〜に堪える / 〜に堪えない
-1. 〜に足る
-1. 〜にとどまらず
-1. 〜に則って
-1. 〜にはあたらない
-1. 〜には及ばない
-1. 〜には無理がある
-1. 〜にひきかえ
-1. 〜にもほどがある
-1. 〜にもまして
-1. 〜に〜を重ねて
-1. 〜ねばならない
-1. 〜の至り
-1. 〜の極み
-1. 〜のやら
-1. 〜はおろか
-1. 〜ばそれまでだ / 〜たらそれまでだ
-1. 〜びる
-1. 〜べからず
-1. 〜べく
-1. 〜ほどのことではない
-1. 〜まじき
-1. 〜までだ / 〜までのことだ
-1. 〜までもない / 〜までもなく
-1. 〜まみれ
-1. 〜めく
-1. 〜もさることながら
-1. 〜もそこそこに
-1. 〜も同然だ
-1. 〜ものを
-1. 〜や否や
-1. 〜ゆえに
-1. 〜よう / 〜ようによっては
-1. 〜ようが / 〜ようと
-1. 〜ようにも〜ない
-1. 〜より
-1. 〜わ〜わで
-1. 〜をおいて
-1. 〜を押して / 〜を押し切って
-1. 〜を顧みず / 〜も顧みず
-1. 〜を限りに
-1. 〜を兼ねて
-1. 〜を皮切りに / 〜を皮切りとして
-1. 〜を禁じ得ない
-1. 〜を境に
-1. 〜をもって（期限1. 手段1. 基準）
-1. 〜をものともせず
-1. 〜を踏まえて
-1. 〜を経て
-1. 〜を余儀なくされる
-1. 〜をよそに
-1. 〜んがために
-1. 〜んばかりに
+1. 〜あっての <https://nihongokyoshi-net.com/2019/05/07/jlptn1-grammar-atteno/>
+1. 〜いかんだ / 〜いかんでは / 〜いかんによっては <https://nihongokyoshi-net.com/2019/07/03/jlptn1-grammar-ikan/>
+1. 〜いかんに関わらず / 〜いかんによらず / 〜いかんを問わず <https://nihongokyoshi-net.com/2019/07/03/jlptn1-grammar-ikannikakawarazu/>
+1. 〜かたがた <https://nihongokyoshi-net.com/2019/06/26/jlptn1-grammar-katagata/>
+1. 〜かたわら <https://nihongokyoshi-net.com/2019/02/15/jlptn1-grammar-katawara/>
+1. 〜がてら <https://nihongokyoshi-net.com/2019/02/19/jlptn1-grammar-gateara/>
+1. 〜かと思いきや <https://nihongokyoshi-net.com/2019/07/16/jlptn1-grammar-katoomoikiya/>
+1. 〜が早いか <https://nihongokyoshi-net.com/2019/07/14/jlptn1-grammar-gahayaika/>
+1. 〜からある / 〜からする / 〜からの <https://nihongokyoshi-net.com/2019/06/25/jlptn1-grammar-karaaru-karasuru-karano/>
+1. 〜かれ〜かれ <https://nihongokyoshi-net.com/2019/08/19/jlptn1-grammar-kare-kare/>
+1. 〜きっての <https://nihongokyoshi-net.com/2019/08/05/jlptn1-grammar-kitteno/>
+1. 〜きらいがある <https://nihongokyoshi-net.com/2019/02/19/jlptn1-grammar-kiraigaaru/>
+1. 〜極まる / 〜極まりない <https://nihongokyoshi-net.com/2019/06/29/jlptn1-grammar-kiwamaru/>
+1. 〜ごとき / ごとく / ごとし <https://nihongokyoshi-net.com/2019/06/19/jlptn1-grammar-gotoki/>
+1. 〜こととて <https://nihongokyoshi-net.com/2019/09/12/jlptn1-grammar-kototote/>
+1. 〜始末だ <https://nihongokyoshi-net.com/2019/07/08/jlptn1-grammar-shimatsuda/>
+1. 〜ずくめ <https://nihongokyoshi-net.com/2019/07/09/jlptn1-grammar-zukume/>
+1. 〜ずにはおかない / 〜ないではおかない <https://nihongokyoshi-net.com/2019/07/17/jlptn1-grammar-zuniwaokanai/>
+1. 〜ずにはすまない / 〜ないではすまない <https://nihongokyoshi-net.com/2019/07/14/jlptn1-grammar-zuniwasumanai/>
+1. 〜術がない <https://nihongokyoshi-net.com/2019/09/23/jlptn1-grammar-subeganai/>
+1. 〜すら <https://nihongokyoshi-net.com/2019/06/11/jlptn1-grammar-sura/>
+1. 〜そばから <https://nihongokyoshi-net.com/2019/07/09/jlptn1-grammar-sobakara/>
+1. ただ〜のみ <https://nihongokyoshi-net.com/2019/07/05/jlptn1-grammar-tada-nomi/>
+1. 〜たためしがない <https://nihongokyoshi-net.com/2020/05/28/jlptn1-grammar-tatameshiganai/>
+1. 〜たところで <https://nihongokyoshi-net.com/2020/01/20/jlptn1-grammar-tatokorode/>
+1. 〜だに <https://nihongokyoshi-net.com/2019/09/19/jlptn1-grammar-dani/>
+1. 〜だの〜だの <https://nihongokyoshi-net.com/2019/10/25/jlptn1-grammar-dano/>
+1. 〜た弾みに / 〜た拍子に <https://nihongokyoshi-net.com/2020/01/17/jlptn1-grammar-tahazumini/>
+1. 〜た分だけ <https://nihongokyoshi-net.com/2019/09/25/jlptn1-grammar-tabundake/>
+1. 〜たまでだ / 〜たまでのことだ <https://nihongokyoshi-net.com/2019/08/21/jlptn1-grammar-tamadeda/>
+1. 〜たら最後 / 〜たが最後 <https://nihongokyoshi-net.com/2019/04/24/jlptn1-grammar-tarasaigo/>
+1. 〜たら〜たで <https://nihongokyoshi-net.com/2020/06/02/jlptn1-grammar-tara-tade/>
+1. 〜たりとも〜ない <https://nihongokyoshi-net.com/2019/06/17/jlptn1-grammar-taritomo-nai/>
+1. 〜たるもの <https://nihongokyoshi-net.com/2019/06/18/jlptn1-grammar-tarumono/>
+1. 〜尽くす <https://nihongokyoshi-net.com/2020/06/02/jlptn1-grammar-tsukusu/>
+1. 〜つ〜つ <https://nihongokyoshi-net.com/2019/02/15/jlptn1-grammar-tsu-tsu/>
+1. 〜であれ〜であれ <https://nihongokyoshi-net.com/2019/06/25/jlptn1-grammar-deare-deare/>
+1. 〜てからというもの <https://nihongokyoshi-net.com/2019/11/15/jlptn1-grammar-tekaratoiumono/>
+1. 〜ではあるまいし / 〜でもあるまいし <https://nihongokyoshi-net.com/2019/06/14/jlptn1-grammar-dewaarumaishi/>
+1. 〜てまえ 1. 〜てやまない <https://nihongokyoshi-net.com/2019/06/19/jlptn1-grammar-teyamanai/>
+1. 〜と相まって <https://nihongokyoshi-net.com/2019/06/26/jlptn1-grammar-amatte/>
+1. 〜とあれば <https://nihongokyoshi-net.com/2019/07/16/jlptn1-grammar-toareba/>
+1. 〜といい〜といい <https://nihongokyoshi-net.com/2020/02/18/jlptn1-grammar-toii-toii/>
+1. 〜といえども <https://nihongokyoshi-net.com/2019/07/02/jlptn1-grammar-toiedomo/>
+1. 〜というもの <https://nihongokyoshi-net.com/2019/11/20/jlptn1-grammar-toiumono/>
+1. 〜ときたら <https://nihongokyoshi-net.com/2019/07/04/jlptn1-grammar-tokitara/>
+1. 〜ところを <https://nihongokyoshi-net.com/2019/05/22/jlptn1-grammar-tokoro/>
+1. 〜とはいえ <https://nihongokyoshi-net.com/2019/02/17/jlptn1-grammar-towaie/>
+1. 〜ともあろう <https://nihongokyoshi-net.com/2019/06/21/jlptn1-grammar-tomoarou/>
+1. 〜ともなく/〜ともなしに <https://nihongokyoshi-net.com/2020/06/11/jlptn1-grammar-tomonaku/>
+1. 〜ともなると / 〜ともなれば <https://nihongokyoshi-net.com/2019/06/27/jlptn1-grammar-tomonaruto-tomonareba/>
+1. 〜ながら <https://nihongokyoshi-net.com/2019/07/18/jlptn1-grammar-nagara/>
+1. 〜なくしては <https://nihongokyoshi-net.com/2019/07/18/jlptn1-grammar-nakushitewa/>
+1. 〜なくもない <https://nihongokyoshi-net.com/2019/06/17/jlptn1-grammar-nakumonai/>
+1. 〜なしに /  〜なしで <https://nihongokyoshi-net.com/2019/06/24/jlptn1-grammar-nashini/>
+1. 〜ならでは <https://nihongokyoshi-net.com/2019/06/20/jlptn1-grammar-naradewa/>
+1. 〜ないまでも <https://nihongokyoshi-net.com/2019/07/17/jlptn1-grammar-naimademo/>
+1. 〜なり <https://nihongokyoshi-net.com/2019/06/11/jlptn1-grammar-nari/>
+1. 〜なりとも <https://nihongokyoshi-net.com/2019/12/18/jlptn1-grammar-naritomo/>
+1. 〜なり〜なり <https://nihongokyoshi-net.com/2019/07/19/jlptn1-grammar-nari-nari/>
+1. 〜なりに <https://nihongokyoshi-net.com/2019/07/01/jlptn1-grammar-narini/>
+1. 〜にあって <https://nihongokyoshi-net.com/2019/07/08/jlptn1-grammar-niatte/>
+1. 〜に至る / 〜に至るまで <https://nihongokyoshi-net.com/2019/05/31/jlptn1-grammar-niitaru/>
+1. 〜に言わせれば <https://nihongokyoshi-net.com/2020/06/16/jlptn1-grammar-niiwasereba/>
+1. 〜にかかっては / 〜にかかったら / 〜にかかると / 〜にかかれば <https://nihongokyoshi-net.com/2020/06/18/jlptn1-grammar-nikakattewa/>
+1. 〜に関わる <https://nihongokyoshi-net.com/2019/06/05/jlptn1-grammar-nikakawaru/>
+1. 〜に限ったことではない <https://nihongokyoshi-net.com/2020/01/13/jlptn1-grammar-nikagittakotodewanai/>
+1. 〜にかこつけて <https://nihongokyoshi-net.com/2019/12/11/jlptn1-grammar-nikakotsukete/>
+1. 〜にかたくない <https://nihongokyoshi-net.com/2019/07/12/jlptn1-grammar-nikatakunai/>
+1. 〜にかまけて <https://nihongokyoshi-net.com/2019/08/08/jlptn1-grammar-nikamakete/>
+1. 〜にして <https://nihongokyoshi-net.com/2019/07/21/jlptn1-grammar-nishite/>
+1. 〜に忍びない <https://nihongokyoshi-net.com/2019/09/09/jlptn1-grammar-nishinobinai/>
+1. 〜に即して / 〜に則して <https://nihongokyoshi-net.com/2019/07/01/jlptn1-grammar-nisokushite/>
+1. 〜に堪える / 〜に堪えない <https://nihongokyoshi-net.com/2019/07/15/jlptn1-grammar-taeru-taenai/>
+1. 〜に足る <https://nihongokyoshi-net.com/2019/07/15/jlptn1-grammar-nitaru/>
+1. 〜にとどまらず <https://nihongokyoshi-net.com/2019/06/27/jlptn1-grammar-nitodomarazu/>
+1. 〜に則って <https://nihongokyoshi-net.com/2019/08/04/jlptn1-grammar-ninottotte/>
+1. 〜にはあたらない <https://nihongokyoshi-net.com/2019/07/05/jlptn1-grammar-niwaataranai/>
+1. 〜には及ばない <https://nihongokyoshi-net.com/2019/07/07/jlptn1-grammar-niwaoyobanai/>
+1. 〜には無理がある <https://nihongokyoshi-net.com/2019/09/20/jlptn1-grammar-niwamurigaaru/>
+1. 〜にひきかえ <https://nihongokyoshi-net.com/2019/04/26/jlptn1-grammar-nihikikae/>
+1. 〜にもほどがある <https://nihongokyoshi-net.com/2019/11/21/jlptn1-grammar-nimohodogaaru/>
+1. 〜にもまして <https://nihongokyoshi-net.com/2019/05/10/jlptn1-grammar-nimomashite/>
+1. 〜に〜を重ねて <https://nihongokyoshi-net.com/2020/01/31/jlptn1-grammar-wokasanete/>
+1. 〜ねばならない <https://nihongokyoshi-net.com/2019/07/22/jlptn1-grammar-nebanaranai/>
+1. 〜の至り <https://nihongokyoshi-net.com/2019/06/18/jlptn1-grammar-itari/>
+1. 〜の極み <https://nihongokyoshi-net.com/2019/07/05/jlptn1-grammar-nokiwami/>
+1. 〜のやら <https://nihongokyoshi-net.com/2019/07/24/jlptn1-grammar-noyara/>
+1. 〜はおろか <https://nihongokyoshi-net.com/2019/06/21/jlptn1-grammar-waoroka/>
+1. 〜ばそれまでだ / 〜たらそれまでだ <https://nihongokyoshi-net.com/2019/06/24/jlptn1-grammar-basoremadeda/>
+1. 〜びる <https://nihongokyoshi-net.com/2019/11/26/jlptn1-grammar-biru/>
+1. 〜べからず <https://nihongokyoshi-net.com/2019/06/16/jlptn1-grammar-bekarazu/>
+1. 〜べく <https://nihongokyoshi-net.com/2019/06/23/jlptn1-grammar-beku/>
+1. 〜ほどのことではない <https://nihongokyoshi-net.com/2019/11/23/jlptn1-grammar-hodonokotodehanai/>
+1. 〜まじき <https://nihongokyoshi-net.com/2019/06/16/jlptn1-grammar-majiki/>
+1. 〜までだ / 〜までのことだ <https://nihongokyoshi-net.com/2019/08/21/jlptn1-grammar-madeda/>
+1. 〜までもない / 〜までもなく <https://nihongokyoshi-net.com/2018/03/27/jlptn1-grammar-mademonai/>
+1. 〜まみれ <https://nihongokyoshi-net.com/2019/07/23/jlptn1-grammar-mamire/>
+1. 〜めく <https://nihongokyoshi-net.com/2019/04/23/jlptn1-grammar-meku/>
+1. 〜もさることながら <https://nihongokyoshi-net.com/2019/06/28/jlptn1-grammar-mosarukotonagara/>
+1. 〜もそこそこに <https://nihongokyoshi-net.com/2019/11/19/jlptn1-grammar-mosokosokoni/>
+1. 〜も同然だ <https://nihongokyoshi-net.com/2019/08/18/jlptn1-grammar-modouzenda/>
+1. 〜ものを <https://nihongokyoshi-net.com/2019/07/10/jlptn1-grammar-monowo/>
+1. 〜や否や <https://nihongokyoshi-net.com/2019/04/22/jlptn1-grammar-yainaya/>
+1. 〜ゆえに <https://nihongokyoshi-net.com/2019/02/19/jlptn1-grammar-yueni/>
+1. 〜よう / 〜ようによっては <https://nihongokyoshi-net.com/2019/07/10/lptn1-grammar-you/>
+1. 〜ようが / 〜ようと <https://nihongokyoshi-net.com/2019/06/13/jlptn1-grammar-youga/>
+1. 〜ようにも〜ない <https://nihongokyoshi-net.com/2019/05/13/jlptn1-grammar-younimo-nai/>
+1. 〜より <https://nihongokyoshi-net.com/2019/09/11/jlptn1-grammar-yori/>
+1. 〜わ〜わで <https://nihongokyoshi-net.com/2020/03/11/jlptn1-grammar-wa-wade/>
+1. 〜をおいて <https://nihongokyoshi-net.com/2019/06/20/jlptn1-grammar-wooite/>
+1. 〜を押して / 〜を押し切って <https://nihongokyoshi-net.com/2019/09/15/jlptn1-grammar-wooshite-wooshikitte/>
+1. 〜を顧みず / 〜も顧みず <https://nihongokyoshi-net.com/2019/09/16/jlptn1-grammar-kaerimizu/>
+1. 〜を限りに <https://nihongokyoshi-net.com/2019/06/16/jlptn1-grammar-wokagirini/>
+1. 〜を兼ねて <https://nihongokyoshi-net.com/2020/02/11/jlptn1-grammar-wokanete/>
+1. 〜を皮切りに / 〜を皮切りとして <https://nihongokyoshi-net.com/2019/07/26/jlptn1-grammar-wokawakirini/>
+1. 〜を禁じ得ない <https://nihongokyoshi-net.com/2019/06/15/jlptn1-grammar-wokinjienai/>
+1. 〜を境に <https://nihongokyoshi-net.com/2019/09/15/jlptn1-grammar-sakaini/>
+1. 〜をもって（期限 手段 基準）<https://nihongokyoshi-net.com/2019/06/18/jlptn1-grammar-womotte/>
+1. 〜をものともせず <https://nihongokyoshi-net.com/2019/06/12/jlptn1-grammar-womonotomosezu/>
+1. 〜を踏まえて <https://nihongokyoshi-net.com/2019/06/12/jlptn1-grammar-wofumaete/>
+1. 〜を経て <https://nihongokyoshi-net.com/2019/08/16/jlptn1-grammar-hete/>
+1. 〜を余儀なくされる <https://nihongokyoshi-net.com/2019/06/15/jlptn1-grammar-woyoginakusareru/>
+1. 〜をよそに <https://nihongokyoshi-net.com/2019/06/28/jlptn1-grammar-woyosoni/>
+1. 〜んがために <https://nihongokyoshi-net.com/2019/08/02/jlptn1-grammar-ngatameni/>
+1. 〜んばかりに <https://nihongokyoshi-net.com/2019/07/26/jlptn1-grammar-nbakarini/>
 
 ## N2
 1. 〜あげく
