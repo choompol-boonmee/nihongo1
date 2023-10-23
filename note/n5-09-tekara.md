@@ -1,4 +1,5 @@
 ## 文型：〜てから
+<https://nihongokyoshi-net.com/2020/08/16/jlptn5-grammar-tekara/>
 
 ## [意味]
 
