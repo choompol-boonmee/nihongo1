@@ -511,3 +511,5 @@
 1. 〜んがために [*](https://nihongokyoshi-net.com/2019/08/02/jlptn1-grammar-ngatameni/)
 1. 〜んばかりに [*](https://nihongokyoshi-net.com/2019/07/26/jlptn1-grammar-nbakarini/)
 
+[JLPT文法解説まとめ](https://nihongokyoshi-net.com/jlpt-grammars/)
+
