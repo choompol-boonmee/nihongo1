@@ -1,37 +1,39 @@
 ## N5
-1. 〜あとで
-1. あまり〜ない
-1. 〜がいちばん
-1. 〜方
-1. 〜が欲しい
-1. 〜から
-1. ぜひ
-1. 〜だけ
-1. 〜で（手段1. 方法）
-1. 〜てから
-1. 〜でしょう（確認1. 同意）
-1. 〜てはいけない 1. 〜てもいいですか
-1. 〜どうやって
-1. 〜と思う
-1. とても
-1. どんな
-1. 〜たい
-1. 〜たり〜たり
-1. 〜とき
-1. 〜ないで
-1. 〜ないでください
-1. 〜ながら
-1. 〜なくてもいい
-1. 〜なければならない
-1. 〜なる1. （目的）に行く / 来る / 帰る
-1. 〜はどうですか
-1. 〜は〜より
-1. 〜前に
-1. 〜ましょう
-1. 〜ましょうか
-1. 〜ませんか
-1. もう〜した
-1. 〜をください
+1. 〜あとで [*](https://nihongokyoshi-net.com/2019/12/18/jlptn5-grammar-atode/)
+1. あまり〜ない [*](https://nihongokyoshi-net.com/2019/12/12/jlptn5-grammar-amari-nai/)
+1. 〜がいちばん [*](https://nihongokyoshi-net.com/2020/02/26/jlptn5-grammar-gaichiban/)
+1. 〜方 [*](https://nihongokyoshi-net.com/2018/04/12/jlptn5-grammar-kata/)
+1. 〜が欲しい [*](https://nihongokyoshi-net.com/2020/02/12/jlptn5-grammar-gahoshii/)
+1. 〜から [*](https://nihongokyoshi-net.com/2020/06/10/jlptn5-grammar-kara/)
+1. ぜひ [*](https://nihongokyoshi-net.com/2019/09/23/jlptn5-grammar-zehi/)
+1. 〜だけ [*](https://nihongokyoshi-net.com/2020/02/19/jlptn5-grammar-dake/)
+1. 〜で（手段 方法） [*](https://nihongokyoshi-net.com/2019/08/13/jlptn5-grammar-de/)
+1. 〜てから [*](https://nihongokyoshi-net.com/2020/08/16/jlptn5-grammar-tekara/)
+1. 〜でしょう（確認 同意）[*](https://nihongokyoshi-net.com/2020/01/29/jlptn5-grammar-deshou/)
+1. 〜てはいけない  [*](https://nihongokyoshi-net.com/2019/05/07/jlptn5-grammar-tewaikemasen/)
+1. 〜てもいいですか [*](https://nihongokyoshi-net.com/2019/02/23/jlptn5-grammar-temoiidesuka/)
+1. 〜どうやって [*](https://nihongokyoshi-net.com/2020/02/28/jlptn5-grammar-douyatte/)
+1. 〜と思う [*](https://nihongokyoshi-net.com/2020/02/02/jlptn5-grammar-toomou/)
+1. とても [*](https://nihongokyoshi-net.com/2020/02/13/jlptn5-grammar-toteomo/)
+1. どんな [*](https://nihongokyoshi-net.com/2020/02/20/jlptn5-grammar-donna/)
+1. 〜たい [*](https://nihongokyoshi-net.com/2020/02/12/jlptn5-grammar-tai/)
+1. 〜たり〜たり [*](https://nihongokyoshi-net.com/2019/06/18/jlptn5-grammar-taritari/)
+1. 〜とき [*](https://nihongokyoshi-net.com/2018/06/09/jlptn5-grammar-toki/)
+1. 〜ないで [*](https://nihongokyoshi-net.com/2018/04/20/jlptn5-grammar-naide/)
+1. 〜ないでください [*](https://nihongokyoshi-net.com/2019/02/23/jlptn5-grammar-naidekudasai/)
+1. 〜ながら [*](https://nihongokyoshi-net.com/2018/04/11/jlptn5-grammar-nagara/)
+1. 〜なくてもいい [*](https://nihongokyoshi-net.com/2019/09/04/jlptn5-grammar-nakutemoii/)
+1. 〜なければならない [*](https://nihongokyoshi-net.com/2020/02/06/jlptn5-grammar-nakerebanaranai/)
+1. 〜なる [*](https://nihongokyoshi-net.com/2019/03/13/jlptn5-grammar-naru/)
+1. （目的）に行く / 来る / 帰る  [*](https://nihongokyoshi-net.com/2019/12/10/jlptn5-grammar-niikimasu/)
+1. 〜はどうですか [*](https://nihongokyoshi-net.com/2019/12/13/jlptn5-grammar-wadoudesuka/)
+1. 〜は〜より [*](https://nihongokyoshi-net.com/2019/08/14/jlptn5-grammar-yori/)
+1. 〜前に [*](https://nihongokyoshi-net.com/2019/04/15/jlptn5-grammar-maeni/)
+1. 〜ましょう [*](https://nihongokyoshi-net.com/2017/12/05/jlptn5-grammar-masho/)
+1. 〜ましょうか [*](https://nihongokyoshi-net.com/2019/08/07/jlptn5-grammar-mashouka/)
+1. 〜ませんか [*](https://nihongokyoshi-net.com/2019/12/14/jlptn5-grammar-masenka/)
+1. もう〜した [*](https://nihongokyoshi-net.com/2020/02/21/jlptn5-grammar-mou-mashita/)
+1. 〜をください [*](https://nihongokyoshi-net.com/2020/02/27/jlptn5-grammar-wokudasai/)
 
 ## N4
 1. 〜間
