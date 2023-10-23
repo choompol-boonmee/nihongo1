@@ -1,4 +1,5 @@
 ## 文型：〜とき
+<https://nihongokyoshi-net.com/2018/06/09/jlptn5-grammar-toki/>
 
 ## [意味]
 「AときB」Bの状態、動作の時間をAで表す時に使われる。
